@@ -41,3 +41,5 @@ defaults:
       type: posts
     values:
       comments: true
+
+include: ["_pages"]
